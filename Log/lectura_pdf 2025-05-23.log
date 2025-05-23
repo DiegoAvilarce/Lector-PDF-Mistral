@@ -1,0 +1,9 @@
+2025-05-23 13:07:24,332 - INFO - HTTP Request: GET https://api.mistral.ai/v1/files?page=0&page_size=100 "HTTP/1.1 200 OK"
+2025-05-23 13:07:24,666 - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/429b3d53-44e8-4cce-9ecf-98ebf67d39c6/url?expiry=24 "HTTP/1.1 200 OK"
+2025-05-23 13:07:24,669 - INFO - El archivo MC0003272.pdf ya fue subido a Mistral.
+2025-05-23 13:07:24,689 - INFO - El archivo MC0003272.pdf ya fue subido a Mistral.
+2025-05-23 13:07:27,585 - INFO - HTTP Request: POST https://api.mistral.ai/v1/files "HTTP/1.1 200 OK"
+2025-05-23 13:07:27,587 - INFO - Archivo C:\Users\davila\Documents\Python Projects\Lector PDF Mistral\Inputs\MC0003272.pdf subido correctamente.
+2025-05-23 13:07:27,901 - INFO - HTTP Request: GET https://api.mistral.ai/v1/files/429b3d53-44e8-4cce-9ecf-98ebf67d39c6/url?expiry=24 "HTTP/1.1 200 OK"
+2025-05-23 13:07:45,883 - INFO - HTTP Request: POST https://api.mistral.ai/v1/ocr "HTTP/1.1 200 OK"
+2025-05-23 13:07:46,610 - INFO - Se ha generado el archivo markdown C:\Users\davila\Documents\Python Projects\Lector PDF Mistral\Outputs\Markdowns\MC0003272.md con éxito.
